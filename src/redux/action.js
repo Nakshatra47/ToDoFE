@@ -1,6 +1,6 @@
 import * as types from "./actionTypes";
 import axios from "axios";
-import userReducer from "./reducer";
+
 
 const API = "http://localhost:8088"
 
